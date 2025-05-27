@@ -14,7 +14,7 @@ En este espacio comparto mis proyectos, aprendizajes y evolución como profesion
 Cada notebook es una muestra de mi compromiso con el crecimiento técnico y el impacto empresarial.
 Este repositorio refleja mi transición profesional y mi deseo de generar valor desde el primer día.
 
-📍 Edo. de México | 📧 gloria.dabre@outlook.com | LinkedIn | GitHub
+📍 Edo. de México | 📧 gloria.dabre@outlook.com 
 🚀 Portafolio en crecimiento | Bootcamp: Data Analyst, Tripleten (Oct 2024 – May 2025)
 
 ¡Gracias por visitar mi perfil!
