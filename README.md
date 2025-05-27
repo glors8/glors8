@@ -16,6 +16,7 @@ Este repositorio refleja mi transición profesional y mi deseo de generar valor 
 
 📍 Edo. de México | 📧 gloria.dabre@outlook.com | LinkedIn | GitHub
 🚀 Portafolio en crecimiento | Bootcamp: Data Analyst, Tripleten (Oct 2024 – May 2025)
+
 ¡Gracias por visitar mi perfil!
 
 
@@ -32,7 +33,7 @@ Este repositorio refleja mi transición profesional y mi deseo de generar valor 
 
 
 ![Data-Driven](https://img.shields.io/badge/Data--Driven-4CAF50?style=for-the-badge)
-![Analytical Thinking](https://img.shields.io/badge/Analytical-Thinking-007ACC?style=for-the-badge)
+![Analytical-Thinking](https://img.shields.io/badge/Analytical-Thinking-007ACC?style=for-the-badge)
 
 
 ![Inglés](https://img.shields.io/badge/Inglés-Avanzado-blue?style=for-the-badge)
