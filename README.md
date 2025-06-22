@@ -1,4 +1,8 @@
-# Hi, I'm Gloria Dávalos ![fun gif](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)👋
+<p align="center">
+  <img src="BannerGithub.png" alt="Banner personal" width="100%">
+</p>
+
+# Hi, I'm Gloria Dávalos👋
 
 
 🌍 Based in Estado de México, México.
