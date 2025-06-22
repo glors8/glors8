@@ -43,24 +43,14 @@
 
 📫 Let’s Connect!
 
-Email: gloria.dabre@outlook.com
+- <b>Email:</b> gloria.dabre@outlook.com
 
-Phone: (+52) 726 126 1062
+- <b>Phone:</b> (+52) 726 126 1062
 
-LinkedIn: linkedin.com/in/gloriadavalos-dataanalyst
+- <b>LinkedIn:</b> linkedin.com/in/gloriadavalos-dataanalyst
 
-GitHub: github.com/glors8
+- <b>GitHub:</b> github.com/glors8
 
-Portfolio: Coming Soon!
+- <b>Portfolio:</b> Coming Soon!
 
 ---
-
-
-
-![Data-Driven](https://img.shields.io/badge/Data--Driven-4CAF50?style=for-the-badge)
-![Analytical-Thinking](https://img.shields.io/badge/Analytical-Thinking-007ACC?style=for-the-badge)
-
-
-![Inglés](https://img.shields.io/badge/Inglés-Avanzado-blue?style=for-the-badge)
-![Alemán](https://img.shields.io/badge/Alemán-Intermedio-lightgrey?style=for-the-badge)
-![Portugués](https://img.shields.io/badge/Portugués-Básico-green?style=for-the-badge)
