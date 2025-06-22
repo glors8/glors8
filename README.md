@@ -2,7 +2,6 @@
   <img src="https://github.com/glors8/banner/blob/main/BannerGithub.png?raw=true" alt="Banner personal" width="100%" />
 </p>
 
-
 # Hi, I'm Gloria Dávalos👋
 
 
