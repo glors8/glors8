@@ -1,13 +1,16 @@
 <p align="center">
-  <img src="https://github.com/glors8/banner/blob/main/BannerGithub.png?raw=true" alt="Banner personal" width="100%" />
+  <img src="https://github.com/glors8/banner/blob/main/BannerGithub_v2.png?raw=true" alt="Banner personal" width="100%" />
 </p>
 
-# Hi, I'm Gloria Dávalos👋
+<h1 align="center">Hi, I'm Gloria Dávalos 👋</h1>
 
 
 🌍 Based in Estado de México, México.
+
 💼 Currently transitioning from customer support and commercial operations to data analysis.
+
 🎓 Just completed a Data Analyst Bootcamp at Tripleten to strengthen my technical skills in Python, SQL, Tableau, and more.
+
 📊 I want to make my research dreams come true through turning complex information into actionable insights, improving processes, and building solutions that connect data with decision-making.
 
 ---
