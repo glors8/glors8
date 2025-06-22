@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+
+🌍 Based in Estado de México, México.
+💼 Currently transitioning from customer support and commercial operations to data analysis.
+🎓 Just completed a Data Analyst Bootcamp at Tripleten to strengthen my technical skills in Python, SQL, Tableau, and more.
+📊 I want to make my research dreams come true through turning complex information into actionable insights, improving processes, and building solutions that connect data with decision-making.
+
+---
+
 Soy Gloria Yolanda Dávalos Breceda, profesional en transición hacia el análisis de datos con más de 5 años de experiencia en ventas B2B, atención al cliente y optimización de procesos.
 Mi trayectoria en sectores como logística, impresión y comercio internacional me ha permitido desarrollar una visión de negocio orientada a resultados y eficiencia.
 He gestionado carteras de más de 90 clientes, optimizado operaciones mediante ERP y CRM (Salesforce, Oracle), y generado reportes que guiaron decisiones clave.
