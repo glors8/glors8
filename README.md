@@ -4,6 +4,11 @@
 
 <h1 align="center">Hi, I'm Gloria Dávalos 👋</h1>
 
+---
+<p align="center">Soy Gloria Dávalos, profesional en transición a data analyst con más de 5 años de experiencia en atención al cliente, ventas B2B y procesos operativos. Actualmente aplico Python, SQL y Tableau para transformar datos en decisiones estratégicas que generen valor real al negocio.</p>
+
+---
+<b>About me</b>
 
 🌍 Based in Estado de México, México.
 
@@ -14,27 +19,15 @@
 📊 I want to make my research dreams come true through turning complex information into actionable insights, improving processes, and building solutions that connect data with decision-making.
 
 ---
+🛠️ <b>Technical Skills</b>
 
-Soy Gloria Yolanda Dávalos Breceda, profesional en transición hacia el análisis de datos con más de 5 años de experiencia en ventas B2B, atención al cliente y optimización de procesos.
-Mi trayectoria en sectores como logística, impresión y comercio internacional me ha permitido desarrollar una visión de negocio orientada a resultados y eficiencia.
-He gestionado carteras de más de 90 clientes, optimizado operaciones mediante ERP y CRM (Salesforce, Oracle), y generado reportes que guiaron decisiones clave.
-Motivada por el valor estratégico de los datos, me formé como Data Analyst a través de un bootcamp intensivo, desarrollando proyectos de análisis real aplicados a negocio.
-Domino herramientas como Python, SQL, Pandas, Tableau y Scikit-learn y he aplicado mis habilidades en análisis de comportamiento de usuarios, segmentación por clústeres y pruebas A/B.
+<b>Programming Languages:</b> Python and SQL
 
-Mi enfoque combina pensamiento analítico, empatía con el cliente y adaptabilidad técnica.
-Busco integrar estas fortalezas para identificar oportunidades de mejora, automatizar reportes y traducir datos en decisiones estratégicas.
-Creo firmemente que los datos no solo cuentan historias: ayudan a escribir el futuro de una empresa.
-Estoy lista para unirme a un equipo donde los desafíos reales se enfrenten con datos, lógica y colaboración.
-En este espacio comparto mis proyectos, aprendizajes y evolución como profesional de datos.
-Cada notebook es una muestra de mi compromiso con el crecimiento técnico y el impacto empresarial.
-Este repositorio refleja mi transición profesional y mi deseo de generar valor desde el primer día.
+<b>Data Analysis:</b> Pandas, Sci-kit Learn, Plotly, Numpy
 
-📍 Edo. de México | 📧 gloria.dabre@outlook.com 
-🚀 Portafolio en crecimiento | Bootcamp: Data Analyst, Tripleten (Oct 2024 – May 2025)
+<b>Visualization Tools:</b> Tableau
 
-¡Gracias por visitar mi perfil!
-
-
+<b>Other Tools:</b> Excel
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,6 +37,23 @@ Este repositorio refleja mi transición profesional y mi deseo de generar valor 
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-202020?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+---
+
+📫 Let’s Connect!
+
+Email: gloria.dabre@outlook.com
+
+Phone: (+52) 726 126 1062
+
+LinkedIn: linkedin.com/in/gloriadavalos-dataanalyst
+
+GitHub: github.com/glors8
+
+Portfolio: Coming Soon!
+
+---
 
 
 
