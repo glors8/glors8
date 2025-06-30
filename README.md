@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Gloria Dávalos 👋</h1>
 
 ---
-<p align="center">Soy Gloria Dávalos, profesional en transición a data analyst con más de 5 años de experiencia en atención al cliente, ventas B2B y procesos operativos. Actualmente aplico Python, SQL y Tableau para transformar datos en decisiones estratégicas que generen valor real al negocio.</p>
+<p align="center"> I'm currently transitioning into the data analyst world. I count with a long experience in customer service, sales and operational processes. Currently I'm using tools such as Python, SQL and Tableu to transform data into meaningful strategies that add a real value to a business.</p>
 
 ---
 <b>About me</b>
