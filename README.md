@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Gloria Dávalos 👋</h1>
 
 ---
-<p align="center"> I'm currently transitioning into the data analyst world. I count with a long experience in customer service, sales and operational processes. Currently I'm using tools such as Python, SQL and Tableu to transform data into meaningful strategies that add a real value to a business.</p>
+<p align="center"> I'm currently transitioning into the data analysis world. I count with a long experience in customer service, sales and operational processes. Currently I'm using tools such as Python, SQL and Tableu to transform large amounts of data into meaningful strategies that add a real value to a business.</p>
 
 ---
 <b>About me</b>
