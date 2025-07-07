@@ -45,7 +45,7 @@
 
 - <b>Email:</b> gloria.dabre@outlook.com
 
-- <b>Phone:</b> (+52) 726 126 1062
+- <b>Phone:</b> (+52) 55 3028 2048
 
 - <b>LinkedIn:</b> linkedin.com/in/gloriadavalos-dataanalyst
 
